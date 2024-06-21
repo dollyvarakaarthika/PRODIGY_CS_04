@@ -1,0 +1,1 @@
+'p' 'r' 'o' 'd' 'i' 'g' 'y' Key.space 'i' 'n' 'f' 'o' 't' 'e' 'c' 'h' Key.space 'i' 'n' 't' 'e' 'r' 'n' 's' 'h' 'i' 'p' Key.enter Key.backspace <100> Key.backspace <100> Key.left Key.right Key.right Key.enter 
